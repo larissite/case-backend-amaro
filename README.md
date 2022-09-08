@@ -19,8 +19,7 @@ Para instalar este projeto localmente é necessário rodar os seguintes comandos
 
 ##### `npm start`
 
-##### `Arquivo .env`
-É necessário configurar as variáveis de ambiente do seu banco de dados para o projeto rodar normalmente.
+#### `Arquivo .env` :warning:  É necessário configurar as variáveis de ambiente do seu banco de dados para o projeto rodar normalmente.
 Para facilitar há o arquivo `.env` pronto para ser preenchido.
 
 Também há um documento requests.rest que poderá ser acessado diretamente do VSCode, caso o usuário possua extensão "REST Client" instalada.
